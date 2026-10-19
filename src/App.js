@@ -65,7 +65,7 @@ export default function App() {
       <Main>
         {" "}
         <Box>
-          <MoviesList movie={movies} />
+          <MoviesList movies={movies} />
         </Box>
         <Box>
           <>
